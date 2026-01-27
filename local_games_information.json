@@ -12,9 +12,17 @@
         "download_newest_version_link":"https://github.com/StijnTB/Corderius_Games/archive/refs/heads/main.zip",
         "executable_file_type":"test",
         "executable_file_path":"game2/test.test"
+    },
+    "WordFeud" : {
+        "version":"1.0.0",
+        "thumbnail_link":"https://raw.githubusercontent.com/StijnTB/PWS-2526-CrosswordPuzzleBot/refs/heads/main/gameIcon.jpg",
+        "download_newest_version_link":"https://github.com/StijnTB/PWS-2526-CrosswordPuzzleBot/archive/refs/heads/main.zip",
+        "executable_file_type":".py",
+        "executable_file_path":"WordFeud/WordFeud_basegame.py"
     }
 
 }
+
 
 
 
