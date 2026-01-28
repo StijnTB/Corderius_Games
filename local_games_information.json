@@ -18,10 +18,11 @@
         "thumbnail_link":"https://raw.githubusercontent.com/StijnTB/PWS-2526-CrosswordPuzzleBot/refs/heads/main/gameIcon.jpg",
         "download_newest_version_link":"https://github.com/StijnTB/PWS-2526-CrosswordPuzzleBot/archive/refs/heads/main.zip",
         "executable_file_type":".py",
-        "executable_file_path":"WordFeud_basegame.py"
+        "executable_file_path":"PWS-2526-CrosswordPuzzleBot-main/WordFeud_basegame.py"
     }
 
 }
+
 
 
 
